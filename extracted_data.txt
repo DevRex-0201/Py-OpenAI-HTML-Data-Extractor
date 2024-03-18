@@ -1,0 +1,3 @@
+{"Part-Number": "90.100.05", "Spring-Rates": "500 lbs/in at front; 200 lbs/in at rear", "Fitment": "2007-2013 BMW 3 Series Coupe (E46) (325Ci, 330Ci)", "Fitment Warning": ""}
+{"Part-Number": "1TR3CDLX005","Spring-Rates": "Front: 10K Rear: 9K","Fitment": "13-17 Lexus GS350","Fitment Warning": ""}
+{"Part-Number": "1TR3CDLX004", "Spring-Rates": "Front: 14K Rear: 10K", "Fitment": "98-05 Lexus GS300 / 98-00 GS400 / 01-05 GS430", "Fitment Warning": ""}
