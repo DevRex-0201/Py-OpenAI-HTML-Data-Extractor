@@ -2,6 +2,8 @@
 
 This utility script is designed to automate the extraction of specific data from HTML content stored in an Excel file and to process this data for further use. The script utilizes OpenAI's GPT model to intelligently parse HTML content and extract relevant information, which is then formatted into JSON data. This data is subsequently processed and organized into a structured Excel file, facilitating easy access and analysis. The tool is particularly useful for scenarios requiring the extraction of structured information from unstructured HTML content, such as product details from web pages.
 
+![Project Image Overview](https://github.com/DevRex-0201/Project-Images/blob/main/Py-OpenAI-HTML-Data-Extractor.png)
+
 ## Features
 
 - **Data Extraction with OpenAI**: Leverages OpenAI's GPT model to extract specific pieces of information from HTML content.
